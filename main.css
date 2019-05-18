@@ -43,3 +43,18 @@ ul {
   text-align: center;
   padding: 1%;
 }
+/************************************ main */
+main {
+	background-color: #fff;
+	opacity: .5;
+	padding: 5%;
+	margin: 0 10%;
+}
+/*********************************** footer */
+footer {
+	background-color: #fdf6c5;
+	padding: 5%;
+	text-align: center;
+	margin: 2% 0;
+	opacity: .5;
+}

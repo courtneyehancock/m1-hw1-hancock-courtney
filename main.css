@@ -25,3 +25,21 @@ body {
   font-family: 'Raleway', sans-serif;
   background-color: #fbd652;
 }
+/************************************* navigation */
+nav {
+	padding: 10px 16px;
+  background: #fbd652;
+  color: #eac544;
+}
+
+ul li{
+  display: inline;
+  padding: 1.5%;
+  text-transform: uppercase;
+	color: #654321;
+}
+
+ul {
+  text-align: center;
+  padding: 1%;
+}

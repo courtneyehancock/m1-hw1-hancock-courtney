@@ -7,3 +7,21 @@
 article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
     display:block;
 }
+
+/************************************* general */
+h1 {
+  font-size: 5em;
+  color: #fff;
+  letter-spacing: .2em;
+  font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+
+p {
+  padding:5%;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #fbd652;
+}
